@@ -12,11 +12,12 @@ firewall-cmd --reload
 cd /home
 unzip Node_React_APP.zip
 cd Node_React_APP
+npm install
+
 cd client
 npm run build
 
 cd server/
-npm install
 npm start
 
 ## Test from the browser using HTTP
