@@ -16,6 +16,7 @@ cd client
 npm run build
 
 cd server/
+npm install 
 npm start
 
 ## Test from the browser using HTTP
