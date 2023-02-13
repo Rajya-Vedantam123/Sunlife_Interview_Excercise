@@ -18,9 +18,11 @@ cd Node_React_APP
 npm install
 
 cd client
+
 npm run build
 
 cd server/
+
 npm start
 
 ## Test from the browser using HTTP
