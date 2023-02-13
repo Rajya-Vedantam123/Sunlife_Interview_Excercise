@@ -10,8 +10,11 @@ firewall-cmd --reload
 ## Unzip and Run App
 
 cd /home
+
 unzip Node_React_APP.zip
+
 cd Node_React_APP
+
 npm install
 
 cd client
